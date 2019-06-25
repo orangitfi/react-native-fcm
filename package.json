@@ -24,5 +24,8 @@
     "type": "git",
     "url": "git+https://github.com/evollu/react-native-fcm.git"
   },
-  "version": "16.2.4"
+  "version": "16.2.4",
+  "dependencies": {
+    "react-native": "^0.59.8"
+  }
 }

@@ -16,6 +16,7 @@ I've created [an example project](https://github.com/evollu/react-native-fcm/tre
 
 
 ### Versions
+- This is a fork of evollu/react-native-fcm which supports AndroidX by our best believe
 - after v16.0.0, Android target SDK has be to >= 26 and build tool has to be >= 26.0.x
 - for iOS SDK < 4, use react-native-fcm@6.2.3 (v6.x is still compatible with Firebase SDK v4)
 - for RN < 0.40.0, use react-native-fcm@2.5.6
